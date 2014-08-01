@@ -1,0 +1,8 @@
+C:\Users\Nick\documents\visual studio 2013\Projects\MovieClass\Starter\bin\Debug\Starter.exe.config
+C:\Users\Nick\documents\visual studio 2013\Projects\MovieClass\Starter\obj\Debug\Starter.csprojResolveAssemblyReference.cache
+C:\Users\Nick\documents\visual studio 2013\Projects\MovieClass\Starter\bin\Debug\Starter.exe
+C:\Users\Nick\documents\visual studio 2013\Projects\MovieClass\Starter\bin\Debug\Starter.pdb
+C:\Users\Nick\documents\visual studio 2013\Projects\MovieClass\Starter\bin\Debug\MovieClass.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\MovieClass\Starter\bin\Debug\MovieClass.pdb
+C:\Users\Nick\documents\visual studio 2013\Projects\MovieClass\Starter\obj\Debug\Starter.exe
+C:\Users\Nick\documents\visual studio 2013\Projects\MovieClass\Starter\obj\Debug\Starter.pdb

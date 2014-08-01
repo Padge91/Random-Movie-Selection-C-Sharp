@@ -1,0 +1,9 @@
+c:\users\nick\documents\visual studio 2013\Projects\MovieClass\MovieClass\bin\Debug\MovieClass.dll
+c:\users\nick\documents\visual studio 2013\Projects\MovieClass\MovieClass\bin\Debug\MovieClass.pdb
+c:\users\nick\documents\visual studio 2013\Projects\MovieClass\MovieClass\obj\Debug\MovieClass.AddFrame.resources
+c:\users\nick\documents\visual studio 2013\Projects\MovieClass\MovieClass\obj\Debug\MovieClass.MainFrame.resources
+c:\users\nick\documents\visual studio 2013\Projects\MovieClass\MovieClass\obj\Debug\MovieClass.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\MovieClass\MovieClass\obj\Debug\MovieClass.dll
+c:\users\nick\documents\visual studio 2013\Projects\MovieClass\MovieClass\obj\Debug\MovieClass.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\MovieClass\MovieClass\obj\Debug\MovieClass.SearchFrame.resources
+C:\Users\Nick\documents\visual studio 2013\Projects\MovieClass\MovieClass\obj\Debug\MovieClass.csprojResolveAssemblyReference.cache
